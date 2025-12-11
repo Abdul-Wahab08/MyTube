@@ -55,7 +55,7 @@ This project provides a complete set of APIs to power a modern video-sharing pla
 
 1.  **Clone the repository:**
     ```bash
-   git clone https://github.com/Abdul-Wahab08/MyTube.git
+    git clone https://github.com/Abdul-Wahab08/MyTube.git
     cd backend-project
     ```
 
