@@ -1,4 +1,4 @@
-# 🚀 myTube Backend Project
+# 🚀 MyTube Backend Project
 
 This is the backend repository for the **myTube** application, a comprehensive social platform designed for video content sharing and management. It is built using a **Node.js, Express, and MongoDB (MEN) architecture**, focusing on a robust, scalable API for video handling, user interaction, and detailed social features.
 
