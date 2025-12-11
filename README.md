@@ -88,14 +88,6 @@ To run this project, you need to create a `.env` file in the root directory and 
 
 ---
 
-# 📂 Project Structure
-
-This project follows a modular structure, including models, controllers, and routes for every major feature:
-
-. ├── src/ │ ├── db/ # Database connection setup │ ├── utils/ # Utility functions (cloudinary, API responses, error handling) │ ├── routes/ # API endpoints for all modules │ ├── models/ # MongoDB schemas for all data types │ ├── controllers/ # Business logic for all functionalities │ └── index.js # Main application entry point ├── .env ├── package.json └── README.md
-
----
-
 ## 👤 Author
 
 **Abdul Wahab**
